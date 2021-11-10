@@ -1,0 +1,15 @@
+D:\EC\WIN21\csharp\lektion-1\02_CSharpFundimentals\bin\Debug\net6.0\02_CSharpFundimentals.exe
+D:\EC\WIN21\csharp\lektion-1\02_CSharpFundimentals\bin\Debug\net6.0\02_CSharpFundimentals.deps.json
+D:\EC\WIN21\csharp\lektion-1\02_CSharpFundimentals\bin\Debug\net6.0\02_CSharpFundimentals.runtimeconfig.json
+D:\EC\WIN21\csharp\lektion-1\02_CSharpFundimentals\bin\Debug\net6.0\02_CSharpFundimentals.dll
+D:\EC\WIN21\csharp\lektion-1\02_CSharpFundimentals\bin\Debug\net6.0\ref\02_CSharpFundimentals.dll
+D:\EC\WIN21\csharp\lektion-1\02_CSharpFundimentals\bin\Debug\net6.0\02_CSharpFundimentals.pdb
+D:\EC\WIN21\csharp\lektion-1\02_CSharpFundimentals\obj\Debug\net6.0\02_CSharpFundimentals.csproj.AssemblyReference.cache
+D:\EC\WIN21\csharp\lektion-1\02_CSharpFundimentals\obj\Debug\net6.0\02_CSharpFundimentals.GeneratedMSBuildEditorConfig.editorconfig
+D:\EC\WIN21\csharp\lektion-1\02_CSharpFundimentals\obj\Debug\net6.0\02_CSharpFundimentals.AssemblyInfoInputs.cache
+D:\EC\WIN21\csharp\lektion-1\02_CSharpFundimentals\obj\Debug\net6.0\02_CSharpFundimentals.AssemblyInfo.cs
+D:\EC\WIN21\csharp\lektion-1\02_CSharpFundimentals\obj\Debug\net6.0\02_CSharpFundimentals.csproj.CoreCompileInputs.cache
+D:\EC\WIN21\csharp\lektion-1\02_CSharpFundimentals\obj\Debug\net6.0\02_CSharpFundimentals.dll
+D:\EC\WIN21\csharp\lektion-1\02_CSharpFundimentals\obj\Debug\net6.0\ref\02_CSharpFundimentals.dll
+D:\EC\WIN21\csharp\lektion-1\02_CSharpFundimentals\obj\Debug\net6.0\02_CSharpFundimentals.pdb
+D:\EC\WIN21\csharp\lektion-1\02_CSharpFundimentals\obj\Debug\net6.0\02_CSharpFundimentals.genruntimeconfig.cache
