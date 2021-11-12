@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="d-flex justify-content-center align-items-center" style="height: 80vh;">
+    <div class="col-12 col-sm-10 col-lg-6 border p-3 shadow-sm">
+        <form class="p-4">
+          <div class="mb-3">
+            <label for="email" class="form-label">Email address</label>
+            <input type="email" class="form-control form-control-lg" id="email" aria-describedby="emailHelp">
+            <div id="email-error" class="invalid-feedback"><small>The email address must be a valid address (eg. username@domain.com)</small></div>
+            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+          </div>
+          <div class="mb-5">
+            <label for="password" class="form-label">Password</label>
+            <input type="password" class="form-control form-control-lg" id="password">
+            <div id="password-error" class="invalid-feedback"><small>The password must meet the complexity requirements. <a href="#">Read more</a></small></div>
+          </div>
+          <div class="d-grid">
+              <button type="submit" class="btn btn-lg btn-dark">Sign In</button>
+          </div>
+        </form>
+    </div>
+</div>

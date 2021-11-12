@@ -1,0 +1,15 @@
+D:\EC\WIN21\csharp\lektion-2\01_Lists\bin\Debug\net6.0\01_Lists.exe
+D:\EC\WIN21\csharp\lektion-2\01_Lists\bin\Debug\net6.0\01_Lists.deps.json
+D:\EC\WIN21\csharp\lektion-2\01_Lists\bin\Debug\net6.0\01_Lists.runtimeconfig.json
+D:\EC\WIN21\csharp\lektion-2\01_Lists\bin\Debug\net6.0\01_Lists.dll
+D:\EC\WIN21\csharp\lektion-2\01_Lists\bin\Debug\net6.0\ref\01_Lists.dll
+D:\EC\WIN21\csharp\lektion-2\01_Lists\bin\Debug\net6.0\01_Lists.pdb
+D:\EC\WIN21\csharp\lektion-2\01_Lists\obj\Debug\net6.0\01_Lists.csproj.AssemblyReference.cache
+D:\EC\WIN21\csharp\lektion-2\01_Lists\obj\Debug\net6.0\01_Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\EC\WIN21\csharp\lektion-2\01_Lists\obj\Debug\net6.0\01_Lists.AssemblyInfoInputs.cache
+D:\EC\WIN21\csharp\lektion-2\01_Lists\obj\Debug\net6.0\01_Lists.AssemblyInfo.cs
+D:\EC\WIN21\csharp\lektion-2\01_Lists\obj\Debug\net6.0\01_Lists.csproj.CoreCompileInputs.cache
+D:\EC\WIN21\csharp\lektion-2\01_Lists\obj\Debug\net6.0\01_Lists.dll
+D:\EC\WIN21\csharp\lektion-2\01_Lists\obj\Debug\net6.0\ref\01_Lists.dll
+D:\EC\WIN21\csharp\lektion-2\01_Lists\obj\Debug\net6.0\01_Lists.pdb
+D:\EC\WIN21\csharp\lektion-2\01_Lists\obj\Debug\net6.0\01_Lists.genruntimeconfig.cache

@@ -35,6 +35,7 @@ public User CreateUser(User user)
     Object                          object
     null (Object)                   null
     Undefined                       ---
+    ---                             dynamic
     
 
     C# Integrals
@@ -226,10 +227,6 @@ public User CreateUser(User user)
     ?   nullable                <    kan tillåta nullvärden (null = jag vet inte...)
     ??  null-coalescing         <    om något är null så tilldelas ett annat värde
  
-    int? value = null;
-    int sum = value ?? 0;
-    Console.WriteLine(sum);
-
     Se exemplet: NullableExample.cs
     internal class NullableExample
     {
@@ -238,8 +235,56 @@ public User CreateUser(User user)
         public string Description { get; set; }
     }
 
+    int? value = null;
+    int sum = value ?? 0;
+    Console.WriteLine(sum);
+
 */
+#endregion
+
+#region VARIABLER
+/*
+    VARIABLER
+
+    C#          Pascal              FirstName
+    JS          camelCase           firstName
+    PY          snake_case          first_name
+
+    
+    SE EXEMPLET FÖR VariableExample.cs
+        Field       firstName                                       inuti en klass
+        Property    FirstName                                       inuti en klass med getters setters
+        Parameter   firstName                                       input till en metod/funktion
+        Variable    _firstName/firstName/FirstName/firstname        inuti en metod/funktion
 
 
+    Beskrivning                                 Exempel
+    ----------------------------------------------------------------------------------------------------------------
+    datatyp variabelnamn = värde;               string  firstName = "Hans";     < har en fast datatyp
+    dynamisk-datatyp variabelnamn = värde;      var     firstName = "Hans";     < blir vad den blir tilldelad
+                                                dynamic firstName = "Hans";     < har en datatyp av typen dynamic
+ 
+*/
+#endregion
 
+#region ARRAYER
+/*
+    ARRAYS
+    En array kan vara av en eller flera dimensioner eller den kan vara jagged (Jagged är en array av arrayer)
+    
+    
+    Beskrivning                         Exempel
+    ---------------------------------------------------------------------------------------------------------
+    datatyp[] NamnPåArrayen             string[] names, int[] values, User[] users etc.
+
+    string[] names = new string[5];
+    string[] names = new string[] { "Hans", "Tommy", "Joakim", "Haithem", "Stefan" };
+    string[] names = { "Hans", "Tommy", "Joakim", "Haithem", "Stefan" };
+
+    string[,] multiDimentional = new string[3,2];
+    string[,] multiDimentional = { { "Hans", "Tommy", "Joakim" } , { "Haithem", "Stefan" } }
+
+    string[][] jagged = new string[5][];
+    jagged[0] = new string[5] { "Hans", "Tommy", "Joakim", "Haithem", "Stefan" };
+*/
 #endregion

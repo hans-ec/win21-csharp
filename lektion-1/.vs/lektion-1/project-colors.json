@@ -5,7 +5,17 @@
       "ProjectGuid": "c8fe3536-cc32-4df4-9b54-92e203722f66",
       "DisplayName": "01_ConsoleApp_Namespace",
       "ColorIndex": 0
+    },
+    "3362120b-ee20-4b0f-9acf-d6465fc245d6": {
+      "ProjectGuid": "3362120b-ee20-4b0f-9acf-d6465fc245d6",
+      "DisplayName": "01_Namespaces",
+      "ColorIndex": 1
+    },
+    "d24b64c6-e123-4a2f-99df-413dda89814c": {
+      "ProjectGuid": "d24b64c6-e123-4a2f-99df-413dda89814c",
+      "DisplayName": "02_CSharpFundimentals",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
