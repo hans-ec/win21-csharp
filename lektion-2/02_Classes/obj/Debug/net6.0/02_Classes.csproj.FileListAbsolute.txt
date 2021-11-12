@@ -1,0 +1,15 @@
+D:\EC\WIN21\csharp\lektion-2\02_Classes\bin\Debug\net6.0\02_Classes.exe
+D:\EC\WIN21\csharp\lektion-2\02_Classes\bin\Debug\net6.0\02_Classes.deps.json
+D:\EC\WIN21\csharp\lektion-2\02_Classes\bin\Debug\net6.0\02_Classes.runtimeconfig.json
+D:\EC\WIN21\csharp\lektion-2\02_Classes\bin\Debug\net6.0\02_Classes.dll
+D:\EC\WIN21\csharp\lektion-2\02_Classes\bin\Debug\net6.0\ref\02_Classes.dll
+D:\EC\WIN21\csharp\lektion-2\02_Classes\bin\Debug\net6.0\02_Classes.pdb
+D:\EC\WIN21\csharp\lektion-2\02_Classes\obj\Debug\net6.0\02_Classes.csproj.AssemblyReference.cache
+D:\EC\WIN21\csharp\lektion-2\02_Classes\obj\Debug\net6.0\02_Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\EC\WIN21\csharp\lektion-2\02_Classes\obj\Debug\net6.0\02_Classes.AssemblyInfoInputs.cache
+D:\EC\WIN21\csharp\lektion-2\02_Classes\obj\Debug\net6.0\02_Classes.AssemblyInfo.cs
+D:\EC\WIN21\csharp\lektion-2\02_Classes\obj\Debug\net6.0\02_Classes.csproj.CoreCompileInputs.cache
+D:\EC\WIN21\csharp\lektion-2\02_Classes\obj\Debug\net6.0\02_Classes.dll
+D:\EC\WIN21\csharp\lektion-2\02_Classes\obj\Debug\net6.0\ref\02_Classes.dll
+D:\EC\WIN21\csharp\lektion-2\02_Classes\obj\Debug\net6.0\02_Classes.pdb
+D:\EC\WIN21\csharp\lektion-2\02_Classes\obj\Debug\net6.0\02_Classes.genruntimeconfig.cache

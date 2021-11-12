@@ -1,0 +1,15 @@
+D:\EC\WIN21\csharp\lektion-2\05_GettersAndSetters\bin\Debug\net6.0\05_GettersAndSetters.exe
+D:\EC\WIN21\csharp\lektion-2\05_GettersAndSetters\bin\Debug\net6.0\05_GettersAndSetters.deps.json
+D:\EC\WIN21\csharp\lektion-2\05_GettersAndSetters\bin\Debug\net6.0\05_GettersAndSetters.runtimeconfig.json
+D:\EC\WIN21\csharp\lektion-2\05_GettersAndSetters\bin\Debug\net6.0\05_GettersAndSetters.dll
+D:\EC\WIN21\csharp\lektion-2\05_GettersAndSetters\bin\Debug\net6.0\ref\05_GettersAndSetters.dll
+D:\EC\WIN21\csharp\lektion-2\05_GettersAndSetters\bin\Debug\net6.0\05_GettersAndSetters.pdb
+D:\EC\WIN21\csharp\lektion-2\05_GettersAndSetters\obj\Debug\net6.0\05_GettersAndSetters.csproj.AssemblyReference.cache
+D:\EC\WIN21\csharp\lektion-2\05_GettersAndSetters\obj\Debug\net6.0\05_GettersAndSetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\EC\WIN21\csharp\lektion-2\05_GettersAndSetters\obj\Debug\net6.0\05_GettersAndSetters.AssemblyInfoInputs.cache
+D:\EC\WIN21\csharp\lektion-2\05_GettersAndSetters\obj\Debug\net6.0\05_GettersAndSetters.AssemblyInfo.cs
+D:\EC\WIN21\csharp\lektion-2\05_GettersAndSetters\obj\Debug\net6.0\05_GettersAndSetters.csproj.CoreCompileInputs.cache
+D:\EC\WIN21\csharp\lektion-2\05_GettersAndSetters\obj\Debug\net6.0\05_GettersAndSetters.dll
+D:\EC\WIN21\csharp\lektion-2\05_GettersAndSetters\obj\Debug\net6.0\ref\05_GettersAndSetters.dll
+D:\EC\WIN21\csharp\lektion-2\05_GettersAndSetters\obj\Debug\net6.0\05_GettersAndSetters.pdb
+D:\EC\WIN21\csharp\lektion-2\05_GettersAndSetters\obj\Debug\net6.0\05_GettersAndSetters.genruntimeconfig.cache
