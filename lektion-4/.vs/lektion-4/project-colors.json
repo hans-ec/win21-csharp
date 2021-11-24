@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d92a04a-6f1f-4c43-8f45-73759f8ef7c4": {
+      "ProjectGuid": "3d92a04a-6f1f-4c43-8f45-73759f8ef7c4",
+      "DisplayName": "00_Repetition",
+      "ColorIndex": 0
+    },
+    "bde2c6f5-a5f0-4705-8ea6-248332809a6e": {
+      "ProjectGuid": "bde2c6f5-a5f0-4705-8ea6-248332809a6e",
+      "DisplayName": "01_Enums",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "9eac7336-f302-4e3d-bf73-e8e2904139ed": {
+      "ProjectGuid": "9eac7336-f302-4e3d-bf73-e8e2904139ed",
+      "DisplayName": "02_Structs",
+      "ColorIndex": 2
+    },
+    "785e3ac4-03e9-4fc5-9d7e-ebb82a6e9565": {
+      "ProjectGuid": "785e3ac4-03e9-4fc5-9d7e-ebb82a6e9565",
+      "DisplayName": "_03_DisposeAndFinalizers",
+      "ColorIndex": 3
+    },
+    "e4f500d4-cbb0-4b8e-83e2-7c4e990a88cb": {
+      "ProjectGuid": "e4f500d4-cbb0-4b8e-83e2-7c4e990a88cb",
+      "DisplayName": "03_DisposeAndFinalizers",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

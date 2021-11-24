@@ -1,0 +1,15 @@
+D:\EC\WIN21\csharp\lektion-4\02_Structs\bin\Debug\net6.0\02_Structs.exe
+D:\EC\WIN21\csharp\lektion-4\02_Structs\bin\Debug\net6.0\02_Structs.deps.json
+D:\EC\WIN21\csharp\lektion-4\02_Structs\bin\Debug\net6.0\02_Structs.runtimeconfig.json
+D:\EC\WIN21\csharp\lektion-4\02_Structs\bin\Debug\net6.0\02_Structs.dll
+D:\EC\WIN21\csharp\lektion-4\02_Structs\bin\Debug\net6.0\ref\02_Structs.dll
+D:\EC\WIN21\csharp\lektion-4\02_Structs\bin\Debug\net6.0\02_Structs.pdb
+D:\EC\WIN21\csharp\lektion-4\02_Structs\obj\Debug\net6.0\02_Structs.csproj.AssemblyReference.cache
+D:\EC\WIN21\csharp\lektion-4\02_Structs\obj\Debug\net6.0\02_Structs.GeneratedMSBuildEditorConfig.editorconfig
+D:\EC\WIN21\csharp\lektion-4\02_Structs\obj\Debug\net6.0\02_Structs.AssemblyInfoInputs.cache
+D:\EC\WIN21\csharp\lektion-4\02_Structs\obj\Debug\net6.0\02_Structs.AssemblyInfo.cs
+D:\EC\WIN21\csharp\lektion-4\02_Structs\obj\Debug\net6.0\02_Structs.csproj.CoreCompileInputs.cache
+D:\EC\WIN21\csharp\lektion-4\02_Structs\obj\Debug\net6.0\02_Structs.dll
+D:\EC\WIN21\csharp\lektion-4\02_Structs\obj\Debug\net6.0\ref\02_Structs.dll
+D:\EC\WIN21\csharp\lektion-4\02_Structs\obj\Debug\net6.0\02_Structs.pdb
+D:\EC\WIN21\csharp\lektion-4\02_Structs\obj\Debug\net6.0\02_Structs.genruntimeconfig.cache

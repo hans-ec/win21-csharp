@@ -1,0 +1,15 @@
+D:\EC\WIN21\csharp\lektion-4\01_Enums\bin\Debug\net6.0\01_Enums.exe
+D:\EC\WIN21\csharp\lektion-4\01_Enums\bin\Debug\net6.0\01_Enums.deps.json
+D:\EC\WIN21\csharp\lektion-4\01_Enums\bin\Debug\net6.0\01_Enums.runtimeconfig.json
+D:\EC\WIN21\csharp\lektion-4\01_Enums\bin\Debug\net6.0\01_Enums.dll
+D:\EC\WIN21\csharp\lektion-4\01_Enums\bin\Debug\net6.0\ref\01_Enums.dll
+D:\EC\WIN21\csharp\lektion-4\01_Enums\bin\Debug\net6.0\01_Enums.pdb
+D:\EC\WIN21\csharp\lektion-4\01_Enums\obj\Debug\net6.0\01_Enums.csproj.AssemblyReference.cache
+D:\EC\WIN21\csharp\lektion-4\01_Enums\obj\Debug\net6.0\01_Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\EC\WIN21\csharp\lektion-4\01_Enums\obj\Debug\net6.0\01_Enums.AssemblyInfoInputs.cache
+D:\EC\WIN21\csharp\lektion-4\01_Enums\obj\Debug\net6.0\01_Enums.AssemblyInfo.cs
+D:\EC\WIN21\csharp\lektion-4\01_Enums\obj\Debug\net6.0\01_Enums.csproj.CoreCompileInputs.cache
+D:\EC\WIN21\csharp\lektion-4\01_Enums\obj\Debug\net6.0\01_Enums.dll
+D:\EC\WIN21\csharp\lektion-4\01_Enums\obj\Debug\net6.0\ref\01_Enums.dll
+D:\EC\WIN21\csharp\lektion-4\01_Enums\obj\Debug\net6.0\01_Enums.pdb
+D:\EC\WIN21\csharp\lektion-4\01_Enums\obj\Debug\net6.0\01_Enums.genruntimeconfig.cache
