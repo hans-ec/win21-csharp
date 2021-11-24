@@ -1,0 +1,15 @@
+D:\EC\WIN21\csharp\lektion-5\01_Polymorphism_override\bin\Debug\net6.0\01_Polymorphism_override.exe
+D:\EC\WIN21\csharp\lektion-5\01_Polymorphism_override\bin\Debug\net6.0\01_Polymorphism_override.deps.json
+D:\EC\WIN21\csharp\lektion-5\01_Polymorphism_override\bin\Debug\net6.0\01_Polymorphism_override.runtimeconfig.json
+D:\EC\WIN21\csharp\lektion-5\01_Polymorphism_override\bin\Debug\net6.0\01_Polymorphism_override.dll
+D:\EC\WIN21\csharp\lektion-5\01_Polymorphism_override\bin\Debug\net6.0\ref\01_Polymorphism_override.dll
+D:\EC\WIN21\csharp\lektion-5\01_Polymorphism_override\bin\Debug\net6.0\01_Polymorphism_override.pdb
+D:\EC\WIN21\csharp\lektion-5\01_Polymorphism_override\obj\Debug\net6.0\01_Polymorphism_override.csproj.AssemblyReference.cache
+D:\EC\WIN21\csharp\lektion-5\01_Polymorphism_override\obj\Debug\net6.0\01_Polymorphism_override.GeneratedMSBuildEditorConfig.editorconfig
+D:\EC\WIN21\csharp\lektion-5\01_Polymorphism_override\obj\Debug\net6.0\01_Polymorphism_override.AssemblyInfoInputs.cache
+D:\EC\WIN21\csharp\lektion-5\01_Polymorphism_override\obj\Debug\net6.0\01_Polymorphism_override.AssemblyInfo.cs
+D:\EC\WIN21\csharp\lektion-5\01_Polymorphism_override\obj\Debug\net6.0\01_Polymorphism_override.csproj.CoreCompileInputs.cache
+D:\EC\WIN21\csharp\lektion-5\01_Polymorphism_override\obj\Debug\net6.0\01_Polymorphism_override.dll
+D:\EC\WIN21\csharp\lektion-5\01_Polymorphism_override\obj\Debug\net6.0\ref\01_Polymorphism_override.dll
+D:\EC\WIN21\csharp\lektion-5\01_Polymorphism_override\obj\Debug\net6.0\01_Polymorphism_override.pdb
+D:\EC\WIN21\csharp\lektion-5\01_Polymorphism_override\obj\Debug\net6.0\01_Polymorphism_override.genruntimeconfig.cache

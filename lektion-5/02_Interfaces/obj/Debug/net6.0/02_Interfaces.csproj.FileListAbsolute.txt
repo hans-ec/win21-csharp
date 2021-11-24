@@ -1,0 +1,15 @@
+D:\EC\WIN21\csharp\lektion-5\02_Interfaces\bin\Debug\net6.0\02_Interfaces.exe
+D:\EC\WIN21\csharp\lektion-5\02_Interfaces\bin\Debug\net6.0\02_Interfaces.deps.json
+D:\EC\WIN21\csharp\lektion-5\02_Interfaces\bin\Debug\net6.0\02_Interfaces.runtimeconfig.json
+D:\EC\WIN21\csharp\lektion-5\02_Interfaces\bin\Debug\net6.0\02_Interfaces.dll
+D:\EC\WIN21\csharp\lektion-5\02_Interfaces\bin\Debug\net6.0\ref\02_Interfaces.dll
+D:\EC\WIN21\csharp\lektion-5\02_Interfaces\bin\Debug\net6.0\02_Interfaces.pdb
+D:\EC\WIN21\csharp\lektion-5\02_Interfaces\obj\Debug\net6.0\02_Interfaces.csproj.AssemblyReference.cache
+D:\EC\WIN21\csharp\lektion-5\02_Interfaces\obj\Debug\net6.0\02_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\EC\WIN21\csharp\lektion-5\02_Interfaces\obj\Debug\net6.0\02_Interfaces.AssemblyInfoInputs.cache
+D:\EC\WIN21\csharp\lektion-5\02_Interfaces\obj\Debug\net6.0\02_Interfaces.AssemblyInfo.cs
+D:\EC\WIN21\csharp\lektion-5\02_Interfaces\obj\Debug\net6.0\02_Interfaces.csproj.CoreCompileInputs.cache
+D:\EC\WIN21\csharp\lektion-5\02_Interfaces\obj\Debug\net6.0\02_Interfaces.dll
+D:\EC\WIN21\csharp\lektion-5\02_Interfaces\obj\Debug\net6.0\ref\02_Interfaces.dll
+D:\EC\WIN21\csharp\lektion-5\02_Interfaces\obj\Debug\net6.0\02_Interfaces.pdb
+D:\EC\WIN21\csharp\lektion-5\02_Interfaces\obj\Debug\net6.0\02_Interfaces.genruntimeconfig.cache

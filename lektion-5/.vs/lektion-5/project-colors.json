@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "42731fff-c74a-425a-bd4b-6417f39e9261": {
+      "ProjectGuid": "42731fff-c74a-425a-bd4b-6417f39e9261",
+      "DisplayName": "00_Repetition",
+      "ColorIndex": 0
+    },
+    "fa13af19-1f61-47e3-b46c-a51465bd1e40": {
+      "ProjectGuid": "fa13af19-1f61-47e3-b46c-a51465bd1e40",
+      "DisplayName": "01_Overloading",
+      "ColorIndex": 1
+    },
+    "d72b4cc2-09b2-499c-8b6e-98e7b04def30": {
+      "ProjectGuid": "d72b4cc2-09b2-499c-8b6e-98e7b04def30",
+      "DisplayName": "01_Polymorphism_override",
+      "ColorIndex": 2
+    },
+    "00ed1fb6-df71-44c5-8719-b91e5d881fb2": {
+      "ProjectGuid": "00ed1fb6-df71-44c5-8719-b91e5d881fb2",
+      "DisplayName": "02_Abstracts",
+      "ColorIndex": 3
+    },
+    "a7df95b7-6eff-42dd-9829-4037e5a912da": {
+      "ProjectGuid": "a7df95b7-6eff-42dd-9829-4037e5a912da",
+      "DisplayName": "02_Interfaces",
+      "ColorIndex": 4
+    },
+    "f93c4f5b-e040-4876-9170-b7ba526e43c0": {
+      "ProjectGuid": "f93c4f5b-e040-4876-9170-b7ba526e43c0",
+      "DisplayName": "03_Abstracts",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

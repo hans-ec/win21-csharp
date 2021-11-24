@@ -1,0 +1,15 @@
+D:\EC\WIN21\csharp\lektion-5\03_Abstracts\bin\Debug\net6.0\03_Abstracts.exe
+D:\EC\WIN21\csharp\lektion-5\03_Abstracts\bin\Debug\net6.0\03_Abstracts.deps.json
+D:\EC\WIN21\csharp\lektion-5\03_Abstracts\bin\Debug\net6.0\03_Abstracts.runtimeconfig.json
+D:\EC\WIN21\csharp\lektion-5\03_Abstracts\bin\Debug\net6.0\03_Abstracts.dll
+D:\EC\WIN21\csharp\lektion-5\03_Abstracts\bin\Debug\net6.0\ref\03_Abstracts.dll
+D:\EC\WIN21\csharp\lektion-5\03_Abstracts\bin\Debug\net6.0\03_Abstracts.pdb
+D:\EC\WIN21\csharp\lektion-5\03_Abstracts\obj\Debug\net6.0\03_Abstracts.csproj.AssemblyReference.cache
+D:\EC\WIN21\csharp\lektion-5\03_Abstracts\obj\Debug\net6.0\03_Abstracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\EC\WIN21\csharp\lektion-5\03_Abstracts\obj\Debug\net6.0\03_Abstracts.AssemblyInfoInputs.cache
+D:\EC\WIN21\csharp\lektion-5\03_Abstracts\obj\Debug\net6.0\03_Abstracts.AssemblyInfo.cs
+D:\EC\WIN21\csharp\lektion-5\03_Abstracts\obj\Debug\net6.0\03_Abstracts.csproj.CoreCompileInputs.cache
+D:\EC\WIN21\csharp\lektion-5\03_Abstracts\obj\Debug\net6.0\03_Abstracts.dll
+D:\EC\WIN21\csharp\lektion-5\03_Abstracts\obj\Debug\net6.0\ref\03_Abstracts.dll
+D:\EC\WIN21\csharp\lektion-5\03_Abstracts\obj\Debug\net6.0\03_Abstracts.pdb
+D:\EC\WIN21\csharp\lektion-5\03_Abstracts\obj\Debug\net6.0\03_Abstracts.genruntimeconfig.cache
