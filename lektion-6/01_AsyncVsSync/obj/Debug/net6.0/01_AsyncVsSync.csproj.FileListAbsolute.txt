@@ -1,0 +1,15 @@
+D:\EC\WIN21\csharp\lektion-6\01_AsyncVsSync\bin\Debug\net6.0\01_AsyncVsSync.exe
+D:\EC\WIN21\csharp\lektion-6\01_AsyncVsSync\bin\Debug\net6.0\01_AsyncVsSync.deps.json
+D:\EC\WIN21\csharp\lektion-6\01_AsyncVsSync\bin\Debug\net6.0\01_AsyncVsSync.runtimeconfig.json
+D:\EC\WIN21\csharp\lektion-6\01_AsyncVsSync\bin\Debug\net6.0\01_AsyncVsSync.dll
+D:\EC\WIN21\csharp\lektion-6\01_AsyncVsSync\bin\Debug\net6.0\ref\01_AsyncVsSync.dll
+D:\EC\WIN21\csharp\lektion-6\01_AsyncVsSync\bin\Debug\net6.0\01_AsyncVsSync.pdb
+D:\EC\WIN21\csharp\lektion-6\01_AsyncVsSync\obj\Debug\net6.0\01_AsyncVsSync.csproj.AssemblyReference.cache
+D:\EC\WIN21\csharp\lektion-6\01_AsyncVsSync\obj\Debug\net6.0\01_AsyncVsSync.GeneratedMSBuildEditorConfig.editorconfig
+D:\EC\WIN21\csharp\lektion-6\01_AsyncVsSync\obj\Debug\net6.0\01_AsyncVsSync.AssemblyInfoInputs.cache
+D:\EC\WIN21\csharp\lektion-6\01_AsyncVsSync\obj\Debug\net6.0\01_AsyncVsSync.AssemblyInfo.cs
+D:\EC\WIN21\csharp\lektion-6\01_AsyncVsSync\obj\Debug\net6.0\01_AsyncVsSync.csproj.CoreCompileInputs.cache
+D:\EC\WIN21\csharp\lektion-6\01_AsyncVsSync\obj\Debug\net6.0\01_AsyncVsSync.dll
+D:\EC\WIN21\csharp\lektion-6\01_AsyncVsSync\obj\Debug\net6.0\ref\01_AsyncVsSync.dll
+D:\EC\WIN21\csharp\lektion-6\01_AsyncVsSync\obj\Debug\net6.0\01_AsyncVsSync.pdb
+D:\EC\WIN21\csharp\lektion-6\01_AsyncVsSync\obj\Debug\net6.0\01_AsyncVsSync.genruntimeconfig.cache

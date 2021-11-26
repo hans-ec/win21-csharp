@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d28eec78-0e3e-4f53-ae0d-04a1fe083683": {
+      "ProjectGuid": "d28eec78-0e3e-4f53-ae0d-04a1fe083683",
+      "DisplayName": "00_Repetition",
+      "ColorIndex": 0
+    },
+    "fe9779d2-2841-4094-b371-6c55acc3d4b8": {
+      "ProjectGuid": "fe9779d2-2841-4094-b371-6c55acc3d4b8",
+      "DisplayName": "01_AsyncVsSync",
+      "ColorIndex": 1
+    },
+    "64eb7f4f-a8d9-44b9-b2f6-3b8687c6e6ae": {
+      "ProjectGuid": "64eb7f4f-a8d9-44b9-b2f6-3b8687c6e6ae",
+      "DisplayName": "02_AyncVsSync_GUI",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
