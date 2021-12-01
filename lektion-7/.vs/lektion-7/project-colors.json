@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "22afda5b-6339-4873-b368-41d94ba938c0": {
+      "ProjectGuid": "22afda5b-6339-4873-b368-41d94ba938c0",
+      "DisplayName": "00_Repetition",
+      "ColorIndex": 0
+    },
+    "1cf619dd-2f9b-413f-84fb-269f84dcc284": {
+      "ProjectGuid": "1cf619dd-2f9b-413f-84fb-269f84dcc284",
+      "DisplayName": "01_WpfAppAsyncAwait",
+      "ColorIndex": 1
+    },
+    "b93394d8-1674-4f7b-a829-d03ac6ba4735": {
+      "ProjectGuid": "b93394d8-1674-4f7b-a829-d03ac6ba4735",
+      "DisplayName": "02_WpfTodoApp",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
