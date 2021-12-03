@@ -1,0 +1,17 @@
+D:\EC\WIN21\csharp\lektion-8\01_WinForms_TodoApp\bin\Debug\net6.0-windows\01_WinForms_TodoApp.exe
+D:\EC\WIN21\csharp\lektion-8\01_WinForms_TodoApp\bin\Debug\net6.0-windows\01_WinForms_TodoApp.deps.json
+D:\EC\WIN21\csharp\lektion-8\01_WinForms_TodoApp\bin\Debug\net6.0-windows\01_WinForms_TodoApp.runtimeconfig.json
+D:\EC\WIN21\csharp\lektion-8\01_WinForms_TodoApp\bin\Debug\net6.0-windows\01_WinForms_TodoApp.dll
+D:\EC\WIN21\csharp\lektion-8\01_WinForms_TodoApp\bin\Debug\net6.0-windows\ref\01_WinForms_TodoApp.dll
+D:\EC\WIN21\csharp\lektion-8\01_WinForms_TodoApp\bin\Debug\net6.0-windows\01_WinForms_TodoApp.pdb
+D:\EC\WIN21\csharp\lektion-8\01_WinForms_TodoApp\obj\Debug\net6.0-windows\01_WinForms_TodoApp.csproj.AssemblyReference.cache
+D:\EC\WIN21\csharp\lektion-8\01_WinForms_TodoApp\obj\Debug\net6.0-windows\_01_WinForms_TodoApp.Form1.resources
+D:\EC\WIN21\csharp\lektion-8\01_WinForms_TodoApp\obj\Debug\net6.0-windows\01_WinForms_TodoApp.csproj.GenerateResource.cache
+D:\EC\WIN21\csharp\lektion-8\01_WinForms_TodoApp\obj\Debug\net6.0-windows\01_WinForms_TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\EC\WIN21\csharp\lektion-8\01_WinForms_TodoApp\obj\Debug\net6.0-windows\01_WinForms_TodoApp.AssemblyInfoInputs.cache
+D:\EC\WIN21\csharp\lektion-8\01_WinForms_TodoApp\obj\Debug\net6.0-windows\01_WinForms_TodoApp.AssemblyInfo.cs
+D:\EC\WIN21\csharp\lektion-8\01_WinForms_TodoApp\obj\Debug\net6.0-windows\01_WinForms_TodoApp.csproj.CoreCompileInputs.cache
+D:\EC\WIN21\csharp\lektion-8\01_WinForms_TodoApp\obj\Debug\net6.0-windows\01_WinForms_TodoApp.dll
+D:\EC\WIN21\csharp\lektion-8\01_WinForms_TodoApp\obj\Debug\net6.0-windows\ref\01_WinForms_TodoApp.dll
+D:\EC\WIN21\csharp\lektion-8\01_WinForms_TodoApp\obj\Debug\net6.0-windows\01_WinForms_TodoApp.pdb
+D:\EC\WIN21\csharp\lektion-8\01_WinForms_TodoApp\obj\Debug\net6.0-windows\01_WinForms_TodoApp.genruntimeconfig.cache

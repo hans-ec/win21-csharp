@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3f56943c-df80-4545-917a-df99cd589849": {
+      "ProjectGuid": "3f56943c-df80-4545-917a-df99cd589849",
+      "DisplayName": "00_Repetition",
+      "ColorIndex": 0
+    },
+    "83a28970-8eec-44af-a5d3-2335c9a0efc9": {
+      "ProjectGuid": "83a28970-8eec-44af-a5d3-2335c9a0efc9",
+      "DisplayName": "01_WinFormsApp",
+      "ColorIndex": 1
+    },
+    "3ad26c0d-4f97-4ce4-88e1-ae5c2683c0f1": {
+      "ProjectGuid": "3ad26c0d-4f97-4ce4-88e1-ae5c2683c0f1",
+      "DisplayName": "01_WinForms_TodoApp",
+      "ColorIndex": 2
+    },
+    "fbcdb4d1-a9ed-424b-a52b-66b848507362": {
+      "ProjectGuid": "fbcdb4d1-a9ed-424b-a52b-66b848507362",
+      "DisplayName": "WinFormsApp1",
+      "ColorIndex": 3
+    },
+    "30a319ba-964d-4aa0-b77b-2560e92df605": {
+      "ProjectGuid": "30a319ba-964d-4aa0-b77b-2560e92df605",
+      "DisplayName": "02_UWP_TodoApp",
+      "ColorIndex": 4
+    },
+    "ab7d026f-5716-4b7d-b211-d46724bc9333": {
+      "ProjectGuid": "ab7d026f-5716-4b7d-b211-d46724bc9333",
+      "DisplayName": "03_WorkerService",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
