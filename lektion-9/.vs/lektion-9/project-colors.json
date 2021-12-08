@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dbed1904-9ae3-4712-a940-3842526cedef": {
+      "ProjectGuid": "dbed1904-9ae3-4712-a940-3842526cedef",
+      "DisplayName": "01_Repetition",
+      "ColorIndex": 0
+    },
+    "5b77463f-6244-41d2-a7ef-0006a81c2baa": {
+      "ProjectGuid": "5b77463f-6244-41d2-a7ef-0006a81c2baa",
+      "DisplayName": "02_WokerService",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4446bb9e-7941-4637-b223-5613e8d17ade": {
+      "ProjectGuid": "4446bb9e-7941-4637-b223-5613e8d17ade",
+      "DisplayName": "03_TestDrivenDevelopment.Production",
+      "ColorIndex": 2
+    },
+    "ee7204fb-a916-4188-9bb5-748d01412db5": {
+      "ProjectGuid": "ee7204fb-a916-4188-9bb5-748d01412db5",
+      "DisplayName": "03_TDD",
+      "ColorIndex": 3
+    },
+    "312ec129-3378-44f3-87f2-0c544bca2071": {
+      "ProjectGuid": "312ec129-3378-44f3-87f2-0c544bca2071",
+      "DisplayName": "03_TDD.xUnitTests",
+      "ColorIndex": 4
+    },
+    "d7bb00a5-0956-404d-a816-cbaf76ba5a55": {
+      "ProjectGuid": "d7bb00a5-0956-404d-a816-cbaf76ba5a55",
+      "DisplayName": "03_TDD.SharedLibrary",
+      "ColorIndex": 5
+    },
+    "102ec1f6-f01e-434c-aec8-4f4307633d97": {
+      "ProjectGuid": "102ec1f6-f01e-434c-aec8-4f4307633d97",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

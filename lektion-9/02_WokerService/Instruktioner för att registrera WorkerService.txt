@@ -1,0 +1,21 @@
+﻿Höger musknapp på projektet -> välj Publish
+Välj Folder -> Next -> Ange en sökväg där programmet ska ligga -> Finish
+Tryck på knappen Publish
+
+Sök efter PowerShell -> Välj höger musknapp och välj Run As Administrator
+Skriv följande kommando för att registrera en service
+
+sc.exe create SiteUrlChecker binpath= sökvägen_till_.exe-filen start= auto
+
+Sök efter services
+Sök efter SiteUrlChecker
+Höger musknapp och välj starta
+
+Kolla logg-filen som skapas
+
+
+För att anvregistrera en service skriv följande i PowerShell
+sc.exe delete SiteUrlChecker
+
+
+DONE!

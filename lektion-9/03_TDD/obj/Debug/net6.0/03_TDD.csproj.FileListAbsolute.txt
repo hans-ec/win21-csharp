@@ -1,0 +1,15 @@
+D:\EC\WIN21\csharp\lektion-9\03_TDD\obj\Debug\net6.0\03_TDD.csproj.AssemblyReference.cache
+D:\EC\WIN21\csharp\lektion-9\03_TDD\obj\Debug\net6.0\03_TDD.GeneratedMSBuildEditorConfig.editorconfig
+D:\EC\WIN21\csharp\lektion-9\03_TDD\obj\Debug\net6.0\03_TDD.AssemblyInfoInputs.cache
+D:\EC\WIN21\csharp\lektion-9\03_TDD\obj\Debug\net6.0\03_TDD.AssemblyInfo.cs
+D:\EC\WIN21\csharp\lektion-9\03_TDD\obj\Debug\net6.0\03_TDD.csproj.CoreCompileInputs.cache
+D:\EC\WIN21\csharp\lektion-9\03_TDD\bin\Debug\net6.0\03_TDD.exe
+D:\EC\WIN21\csharp\lektion-9\03_TDD\bin\Debug\net6.0\03_TDD.deps.json
+D:\EC\WIN21\csharp\lektion-9\03_TDD\bin\Debug\net6.0\03_TDD.runtimeconfig.json
+D:\EC\WIN21\csharp\lektion-9\03_TDD\bin\Debug\net6.0\03_TDD.dll
+D:\EC\WIN21\csharp\lektion-9\03_TDD\bin\Debug\net6.0\ref\03_TDD.dll
+D:\EC\WIN21\csharp\lektion-9\03_TDD\bin\Debug\net6.0\03_TDD.pdb
+D:\EC\WIN21\csharp\lektion-9\03_TDD\obj\Debug\net6.0\03_TDD.dll
+D:\EC\WIN21\csharp\lektion-9\03_TDD\obj\Debug\net6.0\ref\03_TDD.dll
+D:\EC\WIN21\csharp\lektion-9\03_TDD\obj\Debug\net6.0\03_TDD.pdb
+D:\EC\WIN21\csharp\lektion-9\03_TDD\obj\Debug\net6.0\03_TDD.genruntimeconfig.cache

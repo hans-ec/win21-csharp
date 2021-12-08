@@ -1,0 +1,12 @@
+D:\EC\WIN21\csharp\lektion-9\03_TDD.SharedLibrary\bin\Debug\net6.0\03_TDD.SharedLibrary.deps.json
+D:\EC\WIN21\csharp\lektion-9\03_TDD.SharedLibrary\bin\Debug\net6.0\03_TDD.SharedLibrary.dll
+D:\EC\WIN21\csharp\lektion-9\03_TDD.SharedLibrary\bin\Debug\net6.0\ref\03_TDD.SharedLibrary.dll
+D:\EC\WIN21\csharp\lektion-9\03_TDD.SharedLibrary\bin\Debug\net6.0\03_TDD.SharedLibrary.pdb
+D:\EC\WIN21\csharp\lektion-9\03_TDD.SharedLibrary\obj\Debug\net6.0\03_TDD.SharedLibrary.csproj.AssemblyReference.cache
+D:\EC\WIN21\csharp\lektion-9\03_TDD.SharedLibrary\obj\Debug\net6.0\03_TDD.SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\EC\WIN21\csharp\lektion-9\03_TDD.SharedLibrary\obj\Debug\net6.0\03_TDD.SharedLibrary.AssemblyInfoInputs.cache
+D:\EC\WIN21\csharp\lektion-9\03_TDD.SharedLibrary\obj\Debug\net6.0\03_TDD.SharedLibrary.AssemblyInfo.cs
+D:\EC\WIN21\csharp\lektion-9\03_TDD.SharedLibrary\obj\Debug\net6.0\03_TDD.SharedLibrary.csproj.CoreCompileInputs.cache
+D:\EC\WIN21\csharp\lektion-9\03_TDD.SharedLibrary\obj\Debug\net6.0\03_TDD.SharedLibrary.dll
+D:\EC\WIN21\csharp\lektion-9\03_TDD.SharedLibrary\obj\Debug\net6.0\ref\03_TDD.SharedLibrary.dll
+D:\EC\WIN21\csharp\lektion-9\03_TDD.SharedLibrary\obj\Debug\net6.0\03_TDD.SharedLibrary.pdb
