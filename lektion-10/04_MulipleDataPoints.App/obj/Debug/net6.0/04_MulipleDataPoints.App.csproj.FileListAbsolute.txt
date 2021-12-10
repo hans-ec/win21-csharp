@@ -1,0 +1,15 @@
+D:\EC\WIN21\csharp\lektion-10\04_MulipleDataPoints.App\bin\Debug\net6.0\04_MulipleDataPoints.App.exe
+D:\EC\WIN21\csharp\lektion-10\04_MulipleDataPoints.App\bin\Debug\net6.0\04_MulipleDataPoints.App.deps.json
+D:\EC\WIN21\csharp\lektion-10\04_MulipleDataPoints.App\bin\Debug\net6.0\04_MulipleDataPoints.App.runtimeconfig.json
+D:\EC\WIN21\csharp\lektion-10\04_MulipleDataPoints.App\bin\Debug\net6.0\04_MulipleDataPoints.App.dll
+D:\EC\WIN21\csharp\lektion-10\04_MulipleDataPoints.App\bin\Debug\net6.0\ref\04_MulipleDataPoints.App.dll
+D:\EC\WIN21\csharp\lektion-10\04_MulipleDataPoints.App\bin\Debug\net6.0\04_MulipleDataPoints.App.pdb
+D:\EC\WIN21\csharp\lektion-10\04_MulipleDataPoints.App\obj\Debug\net6.0\04_MulipleDataPoints.App.csproj.AssemblyReference.cache
+D:\EC\WIN21\csharp\lektion-10\04_MulipleDataPoints.App\obj\Debug\net6.0\04_MulipleDataPoints.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\EC\WIN21\csharp\lektion-10\04_MulipleDataPoints.App\obj\Debug\net6.0\04_MulipleDataPoints.App.AssemblyInfoInputs.cache
+D:\EC\WIN21\csharp\lektion-10\04_MulipleDataPoints.App\obj\Debug\net6.0\04_MulipleDataPoints.App.AssemblyInfo.cs
+D:\EC\WIN21\csharp\lektion-10\04_MulipleDataPoints.App\obj\Debug\net6.0\04_MulipleDataPoints.App.csproj.CoreCompileInputs.cache
+D:\EC\WIN21\csharp\lektion-10\04_MulipleDataPoints.App\obj\Debug\net6.0\04_MulipleDataPoints.App.dll
+D:\EC\WIN21\csharp\lektion-10\04_MulipleDataPoints.App\obj\Debug\net6.0\ref\04_MulipleDataPoints.App.dll
+D:\EC\WIN21\csharp\lektion-10\04_MulipleDataPoints.App\obj\Debug\net6.0\04_MulipleDataPoints.App.pdb
+D:\EC\WIN21\csharp\lektion-10\04_MulipleDataPoints.App\obj\Debug\net6.0\04_MulipleDataPoints.App.genruntimeconfig.cache

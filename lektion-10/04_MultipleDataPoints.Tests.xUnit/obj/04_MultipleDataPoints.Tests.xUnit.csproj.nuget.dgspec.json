@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\EC\\WIN21\\csharp\\lektion-10\\04_MultipleDataPoints.Tests.xUnit\\04_MultipleDataPoints.Tests.xUnit.csproj": {}
+  },
+  "projects": {
+    "D:\\EC\\WIN21\\csharp\\lektion-10\\04_MulipleDataPoints.App\\04_MulipleDataPoints.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EC\\WIN21\\csharp\\lektion-10\\04_MulipleDataPoints.App\\04_MulipleDataPoints.App.csproj",
+        "projectName": "04_MulipleDataPoints.App",
+        "projectPath": "D:\\EC\\WIN21\\csharp\\lektion-10\\04_MulipleDataPoints.App\\04_MulipleDataPoints.App.csproj",
+        "packagesPath": "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\",
+        "outputPath": "D:\\EC\\WIN21\\csharp\\lektion-10\\04_MulipleDataPoints.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HansMattin-Lassei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\EC\\WIN21\\csharp\\lektion-10\\04_MultipleDataPoints.Tests.xUnit\\04_MultipleDataPoints.Tests.xUnit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EC\\WIN21\\csharp\\lektion-10\\04_MultipleDataPoints.Tests.xUnit\\04_MultipleDataPoints.Tests.xUnit.csproj",
+        "projectName": "04_MultipleDataPoints.Tests.xUnit",
+        "projectPath": "D:\\EC\\WIN21\\csharp\\lektion-10\\04_MultipleDataPoints.Tests.xUnit\\04_MultipleDataPoints.Tests.xUnit.csproj",
+        "packagesPath": "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\",
+        "outputPath": "D:\\EC\\WIN21\\csharp\\lektion-10\\04_MultipleDataPoints.Tests.xUnit\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HansMattin-Lassei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\EC\\WIN21\\csharp\\lektion-10\\04_MulipleDataPoints.App\\04_MulipleDataPoints.App.csproj": {
+                "projectPath": "D:\\EC\\WIN21\\csharp\\lektion-10\\04_MulipleDataPoints.App\\04_MulipleDataPoints.App.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d84888ac-c167-4a06-9f43-06723c0506ad": {
+      "ProjectGuid": "d84888ac-c167-4a06-9f43-06723c0506ad",
+      "DisplayName": "01_ConsoleApp",
+      "ColorIndex": 0
+    },
+    "859beb89-fae4-44ae-8e46-41f4cdf899de": {
+      "ProjectGuid": "859beb89-fae4-44ae-8e46-41f4cdf899de",
+      "DisplayName": "01_ConsoleApp.Tests",
+      "ColorIndex": 1
+    },
+    "3d392d06-e7ea-4def-bc52-1b66677d3731": {
+      "ProjectGuid": "3d392d06-e7ea-4def-bc52-1b66677d3731",
+      "DisplayName": "02_TodoList_ConsoleApp",
+      "ColorIndex": 2
+    },
+    "961047ee-c481-4044-8c38-616094f262f3": {
+      "ProjectGuid": "961047ee-c481-4044-8c38-616094f262f3",
+      "DisplayName": "02_TodoList.Repository",
+      "ColorIndex": 3
+    },
+    "ee9392b2-46c3-4e99-853a-4dc7a84309a3": {
+      "ProjectGuid": "ee9392b2-46c3-4e99-853a-4dc7a84309a3",
+      "DisplayName": "02_TodoList.Tests",
+      "ColorIndex": 4
+    },
+    "e69748cb-5db2-41f1-a075-01e9a0504480": {
+      "ProjectGuid": "e69748cb-5db2-41f1-a075-01e9a0504480",
+      "DisplayName": "03_TodoList.App",
+      "ColorIndex": 5
+    },
+    "235295e2-601d-4458-b445-4e8b07ed96c8": {
+      "ProjectGuid": "235295e2-601d-4458-b445-4e8b07ed96c8",
+      "DisplayName": "03_TodoList.Tests.xUnit",
+      "ColorIndex": 6
+    },
+    "90da9b38-b020-406e-8105-90fa456f2c3c": {
+      "ProjectGuid": "90da9b38-b020-406e-8105-90fa456f2c3c",
+      "DisplayName": "03_TodoList.App",
+      "ColorIndex": 7
+    },
+    "97db4da3-42a0-4471-ace7-9b2ba81bbc5e": {
+      "ProjectGuid": "97db4da3-42a0-4471-ace7-9b2ba81bbc5e",
+      "DisplayName": "03_TodoList.Tests.xUnit",
+      "ColorIndex": 8
+    },
+    "8df4f049-bb99-4eb5-b7c2-2c7beb15fa79": {
+      "ProjectGuid": "8df4f049-bb99-4eb5-b7c2-2c7beb15fa79",
+      "DisplayName": "03_ProductList.App",
+      "ColorIndex": 9
+    },
+    "2c582fef-4d96-471e-a8d8-93195c45903e": {
+      "ProjectGuid": "2c582fef-4d96-471e-a8d8-93195c45903e",
+      "DisplayName": "03_ProductList.Tests.xUnit",
+      "ColorIndex": 10
+    },
+    "28790836-eb0b-4347-8a73-79a7e5b17ebb": {
+      "ProjectGuid": "28790836-eb0b-4347-8a73-79a7e5b17ebb",
+      "DisplayName": "03_ProductList.Tests.nUnit",
+      "ColorIndex": 11
+    },
+    "6e17f20c-0d81-4447-a9aa-5a82ce4395fc": {
+      "ProjectGuid": "6e17f20c-0d81-4447-a9aa-5a82ce4395fc",
+      "DisplayName": "03_ProductList.Tests.MSTest",
+      "ColorIndex": 12
+    },
+    "a71b68a4-0d20-4f17-bf8f-52e8a0322ff5": {
+      "ProjectGuid": "a71b68a4-0d20-4f17-bf8f-52e8a0322ff5",
+      "DisplayName": "04_MulipleDataPoints.App",
+      "ColorIndex": 13
+    },
+    "3c6b244f-0533-466b-9942-bc8f18bb7e12": {
+      "ProjectGuid": "3c6b244f-0533-466b-9942-bc8f18bb7e12",
+      "DisplayName": "04_MultipleDataPoints.Tests.xUnit",
+      "ColorIndex": 14
+    },
+    "a005a996-e635-449c-af7c-be7b2531a9a5": {
+      "ProjectGuid": "a005a996-e635-449c-af7c-be7b2531a9a5",
+      "DisplayName": "04_MultipleDataPoints.Tests.nUnit",
+      "ColorIndex": 15
+    },
+    "4bba5d5d-f6a0-44ec-97e6-410566a2e472": {
+      "ProjectGuid": "4bba5d5d-f6a0-44ec-97e6-410566a2e472",
+      "DisplayName": "04_MultipleDataPoint.Tests.MSTest",
+      "ColorIndex": 0
+    },
+    "31bf5bb4-6bf5-44d6-8a3b-878145e03048": {
+      "ProjectGuid": "31bf5bb4-6bf5-44d6-8a3b-878145e03048",
+      "DisplayName": "05_TodoList.UwpApp",
+      "ColorIndex": 1
+    },
+    "1a7741d8-922a-416a-a83d-a22979f3ea68": {
+      "ProjectGuid": "1a7741d8-922a-416a-a83d-a22979f3ea68",
+      "DisplayName": "05_TodoList.Test.MSTest",
+      "ColorIndex": 2
+    },
+    "3db4dd52-11a6-4c9e-9dec-5c2af566b91b": {
+      "ProjectGuid": "3db4dd52-11a6-4c9e-9dec-5c2af566b91b",
+      "DisplayName": "06_TodoList.WpfApp",
+      "ColorIndex": 3
+    },
+    "1b34c9db-a6fb-4619-ba95-25b2dce38399": {
+      "ProjectGuid": "1b34c9db-a6fb-4619-ba95-25b2dce38399",
+      "DisplayName": "06_TodoList.Tests",
+      "ColorIndex": 4
+    },
+    "8e766c05-04de-4f43-9429-ae587ab7c5eb": {
+      "ProjectGuid": "8e766c05-04de-4f43-9429-ae587ab7c5eb",
+      "DisplayName": "05_TodoList.AppGUI",
+      "ColorIndex": 5
+    },
+    "70203fce-e210-4c5c-bd23-3e2ab738b42d": {
+      "ProjectGuid": "70203fce-e210-4c5c-bd23-3e2ab738b42d",
+      "DisplayName": "05_TodoList.AppGUI.Tests",
+      "ColorIndex": 6
+    },
+    "690a553d-eebd-4846-9d56-089a9550a9ff": {
+      "ProjectGuid": "690a553d-eebd-4846-9d56-089a9550a9ff",
+      "DisplayName": "05_TodoList.Tests",
+      "ColorIndex": 7
+    },
+    "6245eabe-0de0-481b-9721-1a7ea197be62": {
+      "ProjectGuid": "6245eabe-0de0-481b-9721-1a7ea197be62",
+      "DisplayName": "05_TodoList.Repository",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

@@ -1,0 +1,12 @@
+D:\EC\WIN21\csharp\lektion-10\05_TodoList.Repository\bin\Debug\net6.0\05_TodoList.Repository.deps.json
+D:\EC\WIN21\csharp\lektion-10\05_TodoList.Repository\bin\Debug\net6.0\05_TodoList.Repository.dll
+D:\EC\WIN21\csharp\lektion-10\05_TodoList.Repository\bin\Debug\net6.0\ref\05_TodoList.Repository.dll
+D:\EC\WIN21\csharp\lektion-10\05_TodoList.Repository\bin\Debug\net6.0\05_TodoList.Repository.pdb
+D:\EC\WIN21\csharp\lektion-10\05_TodoList.Repository\obj\Debug\net6.0\05_TodoList.Repository.csproj.AssemblyReference.cache
+D:\EC\WIN21\csharp\lektion-10\05_TodoList.Repository\obj\Debug\net6.0\05_TodoList.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\EC\WIN21\csharp\lektion-10\05_TodoList.Repository\obj\Debug\net6.0\05_TodoList.Repository.AssemblyInfoInputs.cache
+D:\EC\WIN21\csharp\lektion-10\05_TodoList.Repository\obj\Debug\net6.0\05_TodoList.Repository.AssemblyInfo.cs
+D:\EC\WIN21\csharp\lektion-10\05_TodoList.Repository\obj\Debug\net6.0\05_TodoList.Repository.csproj.CoreCompileInputs.cache
+D:\EC\WIN21\csharp\lektion-10\05_TodoList.Repository\obj\Debug\net6.0\05_TodoList.Repository.dll
+D:\EC\WIN21\csharp\lektion-10\05_TodoList.Repository\obj\Debug\net6.0\ref\05_TodoList.Repository.dll
+D:\EC\WIN21\csharp\lektion-10\05_TodoList.Repository\obj\Debug\net6.0\05_TodoList.Repository.pdb

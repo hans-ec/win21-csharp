@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "05_TodoList.AppGUI/1.0.0": {
+        "dependencies": {
+          "05_TodoList.Repository": "1.0.0"
+        },
+        "runtime": {
+          "05_TodoList.AppGUI.dll": {}
+        }
+      },
+      "05_TodoList.Repository/1.0.0": {
+        "runtime": {
+          "05_TodoList.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "05_TodoList.AppGUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "05_TodoList.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

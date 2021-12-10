@@ -1,0 +1,15 @@
+D:\EC\WIN21\csharp\lektion-10\03_ProductList.App\bin\Debug\net6.0\03_ProductList.App.exe
+D:\EC\WIN21\csharp\lektion-10\03_ProductList.App\bin\Debug\net6.0\03_ProductList.App.deps.json
+D:\EC\WIN21\csharp\lektion-10\03_ProductList.App\bin\Debug\net6.0\03_ProductList.App.runtimeconfig.json
+D:\EC\WIN21\csharp\lektion-10\03_ProductList.App\bin\Debug\net6.0\03_ProductList.App.dll
+D:\EC\WIN21\csharp\lektion-10\03_ProductList.App\bin\Debug\net6.0\ref\03_ProductList.App.dll
+D:\EC\WIN21\csharp\lektion-10\03_ProductList.App\bin\Debug\net6.0\03_ProductList.App.pdb
+D:\EC\WIN21\csharp\lektion-10\03_ProductList.App\obj\Debug\net6.0\03_ProductList.App.csproj.AssemblyReference.cache
+D:\EC\WIN21\csharp\lektion-10\03_ProductList.App\obj\Debug\net6.0\03_ProductList.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\EC\WIN21\csharp\lektion-10\03_ProductList.App\obj\Debug\net6.0\03_ProductList.App.AssemblyInfoInputs.cache
+D:\EC\WIN21\csharp\lektion-10\03_ProductList.App\obj\Debug\net6.0\03_ProductList.App.AssemblyInfo.cs
+D:\EC\WIN21\csharp\lektion-10\03_ProductList.App\obj\Debug\net6.0\03_ProductList.App.csproj.CoreCompileInputs.cache
+D:\EC\WIN21\csharp\lektion-10\03_ProductList.App\obj\Debug\net6.0\03_ProductList.App.dll
+D:\EC\WIN21\csharp\lektion-10\03_ProductList.App\obj\Debug\net6.0\ref\03_ProductList.App.dll
+D:\EC\WIN21\csharp\lektion-10\03_ProductList.App\obj\Debug\net6.0\03_ProductList.App.pdb
+D:\EC\WIN21\csharp\lektion-10\03_ProductList.App\obj\Debug\net6.0\03_ProductList.App.genruntimeconfig.cache
