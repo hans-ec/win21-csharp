@@ -1,0 +1,15 @@
+D:\EC\WIN21\csharp\lektion-11\CustomerManagement\bin\Debug\net6.0\CustomerManagement.exe
+D:\EC\WIN21\csharp\lektion-11\CustomerManagement\bin\Debug\net6.0\CustomerManagement.deps.json
+D:\EC\WIN21\csharp\lektion-11\CustomerManagement\bin\Debug\net6.0\CustomerManagement.runtimeconfig.json
+D:\EC\WIN21\csharp\lektion-11\CustomerManagement\bin\Debug\net6.0\CustomerManagement.dll
+D:\EC\WIN21\csharp\lektion-11\CustomerManagement\bin\Debug\net6.0\ref\CustomerManagement.dll
+D:\EC\WIN21\csharp\lektion-11\CustomerManagement\bin\Debug\net6.0\CustomerManagement.pdb
+D:\EC\WIN21\csharp\lektion-11\CustomerManagement\obj\Debug\net6.0\CustomerManagement.csproj.AssemblyReference.cache
+D:\EC\WIN21\csharp\lektion-11\CustomerManagement\obj\Debug\net6.0\CustomerManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\EC\WIN21\csharp\lektion-11\CustomerManagement\obj\Debug\net6.0\CustomerManagement.AssemblyInfoInputs.cache
+D:\EC\WIN21\csharp\lektion-11\CustomerManagement\obj\Debug\net6.0\CustomerManagement.AssemblyInfo.cs
+D:\EC\WIN21\csharp\lektion-11\CustomerManagement\obj\Debug\net6.0\CustomerManagement.csproj.CoreCompileInputs.cache
+D:\EC\WIN21\csharp\lektion-11\CustomerManagement\obj\Debug\net6.0\CustomerManagement.dll
+D:\EC\WIN21\csharp\lektion-11\CustomerManagement\obj\Debug\net6.0\ref\CustomerManagement.dll
+D:\EC\WIN21\csharp\lektion-11\CustomerManagement\obj\Debug\net6.0\CustomerManagement.pdb
+D:\EC\WIN21\csharp\lektion-11\CustomerManagement\obj\Debug\net6.0\CustomerManagement.genruntimeconfig.cache
